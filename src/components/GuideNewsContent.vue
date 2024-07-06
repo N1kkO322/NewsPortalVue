@@ -1,0 +1,293 @@
+<template>
+  <div class="p-8">
+    
+    <div class="flex flex-row" >
+
+      <button class="p-2 border-2 hover:bg-[#ADAFBB] hover:text-white transition ease-in-out rounded-l-lg border-r-0 border-[#ADAFBB]">Добавить раздел</button>
+      <button class="p-2 border-2 hover:bg-[#ADAFBB] hover:text-white transition ease-in-out border-r-0 border-[#ADAFBB]">Редактировать</button>
+      <button class="p-2 border-2 hover:bg-[#ADAFBB] hover:text-white transition ease-in-out rounded-r-lg border-[#ADAFBB]">Удалить</button>
+  
+    </div>
+
+    <div class="mt-16">
+
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-[#7D888E]">
+          
+          <input  type="checkbox">
+
+          <h2 class="w-[300px] ml-4">Раздел</h2>
+          <h2 class="w-[700px] ml-8">Описание</h2>
+          <h2 class="w-[200px] ml-4">Создатель</h2>
+          <h2 class="w-[180px] ml-4">Дата добавления</h2>
+         
+        
+      </div>
+
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      <div class="flex flex-row flex-wrap justify-start border-b-2 p-2 text-sm items-center">
+          
+        <input type="checkbox">
+
+        <h2 class="w-[300px] ml-4">Социальное направление</h2>
+        <h2 class="w-[700px] ml-8">Новости о различных социальных льготах работников Общества и т.п.</h2>
+        <h2 class="w-[200px] ml-4">Иванов А.А.</h2>
+        <h2 class="w-[180px] ml-4">20.05.2024, 15:00</h2>
+       
+      </div>
+      
+      
+
+    </div>
+
+  </div>
+
+</template>
+
+<script setup>
+
+</script>
+
+<style lang="scss" scoped>
+
+</style>
